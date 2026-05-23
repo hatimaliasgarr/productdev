@@ -65,7 +65,7 @@ const solutionPoints = [
 
 const solarPackages = [
   {
-    size: '2 kW',
+    size: '3 kW',
     price: 190000,
     tag: 'Standard home plan',
     ideal: 'Best for small homes with moderate daily usage.',
